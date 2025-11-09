@@ -4,5 +4,5 @@ int main(){
     int c=a+b;
     printf("sum =%d\n",c);
     printf("hello world people");
-    printf("sure");
+    printf("sure, why not");
 }
