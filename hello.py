@@ -2,4 +2,5 @@ print("hello")
 print("source")
 print("goodbye")
 a=65
-print(a)
+b=35
+print(a+b)
